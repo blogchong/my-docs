@@ -1,4 +1,4 @@
-##博客虫技术文章集合
+##博客虫大数据技术文章集合
 
 ###一、挖掘机系列
 
@@ -12,6 +12,8 @@
 
 
 ###二、大数据系列
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401018410&idx=1&sn=2e1071ce87fbba446cd4bec62b17b08e#rd">你们是不是很缺大数据工程师？</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=400763782&idx=1&sn=ea5097bf7558e2375cc4697a028fc0c9#rd">米特吧大数据技术沙龙第一期干货分享</a>
 
@@ -32,7 +34,7 @@
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=205392729&idx=1&sn=3acacbb3b6f2ded67ea43d08a908e0fb#rd">博客虫Storm实战系列一《集群的安装与部署》</a>
 
 
-###三、互联网时评
+###三、时评系列
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=207166771&idx=1&sn=726f8c1a607f1739a3467ef598d4c163#rd">阿里欲瓜分网络文学蛋糕 还来得及吗？</a>
 
