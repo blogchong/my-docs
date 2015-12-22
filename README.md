@@ -2,6 +2,8 @@
 
 ###一、挖掘机系列
 
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401083528&idx=1&sn=27974db9212db0c4f380760fffb509b2#rd">热度TopN排名算法的设计  2015-12-22</a>
+
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=400921265&idx=1&sn=69ea45f19ae2da8b5719dcb998211dbc#rd">文本主题特征抽取实践与构想  2015-12-16</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=400524527&idx=1&sn=7de0fcd53088a5b27b1fe6c2337b82c4#rd">推荐系统基础知识  2015-11-21</a>
