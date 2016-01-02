@@ -1,5 +1,7 @@
 ##博客虫大数据技术文章集合
 
+> 一直会持续更新，欢迎关注文章的公众号，欢迎分享转发！
+
 ###一、挖掘机系列
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401083528&idx=1&sn=27974db9212db0c4f380760fffb509b2#rd">热度TopN排名算法的设计  2015-12-22</a>
