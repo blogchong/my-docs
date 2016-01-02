@@ -15,6 +15,12 @@
 
 ###二、大数据系列
 
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401260851&idx=1&sn=20dd060bf50a4280395b157f8a06be14#rd">博客虫资源分享系列二：Storm实时处理相关资源  2016-01-02</a>
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401208805&idx=1&sn=eec2537fec6d293fd7527008f07ccb2d#rd">博客虫资源分享系列一：Hadoop大数据相关资源  2015-12-30</a>
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401132851&idx=1&sn=03ee7ca219ccb8c9f0be4a7038ed7159#rd">大数据猿们，是时候想想这几个问题了  2015-12-25</a>
+
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401018410&idx=1&sn=2e1071ce87fbba446cd4bec62b17b08e#rd">你们是不是很缺大数据工程师？  2015-12-21</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=400763782&idx=1&sn=ea5097bf7558e2375cc4697a028fc0c9#rd">米特吧大数据技术沙龙第一期干货分享  2015-12-08</a>
@@ -46,6 +52,8 @@
 
 
 ###四、其他
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401169109&idx=1&sn=1139ea1ca142a356162d9e443e6c7a2f#rd">两座城池  2015-12-28</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=207843778&idx=1&sn=feda3a7f0984e8c69d109faf70195b23#rd">IT动物们，请放松你们的心灵  2015-06-12</a>
 
