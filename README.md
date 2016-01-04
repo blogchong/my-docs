@@ -17,6 +17,8 @@
 
 ###二、大数据系列
 
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401292680&idx=1&sn=77f2a0e7251866cb1feeafe9c8de7e58#rd">米特吧大数据技术沙龙第二期详情及报名  2016-01-04</a>
+
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401260851&idx=1&sn=20dd060bf50a4280395b157f8a06be14#rd">博客虫资源分享系列二：Storm实时处理相关资源  2016-01-02</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401208805&idx=1&sn=eec2537fec6d293fd7527008f07ccb2d#rd">博客虫资源分享系列一：Hadoop大数据相关资源  2015-12-30</a>
