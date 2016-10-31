@@ -17,6 +17,14 @@
 
 ###二、大数据系列
 
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473329&idx=1&sn=e95100a6e17b6401e84d02a172212b4f&scene=19#wechat_redirect">从0到1构建数据生态系列之二：拓荒  2016-10-27</a>
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473325&idx=1&sn=8040951be49a8ecd0f4482dd989f58a6&scene=19#wechat_redirect">从0到1构建数据生态系列之一：蛮荒时代  2016-09-22</a>
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473320&idx=1&sn=ca77bdb6a5b3298280f99fb650031901&scene=19#wechat_redirect">大数据职位画像-看看你是不是白混了贼多年！  2016-09-20</a>
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=402814268&idx=1&sn=e8422c9e1ba0e9a121580210f3a9c0d4&scene=19#wechat_redirect">大数据与长尾  2016-04-07</a>
+
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401807637&idx=1&sn=860ea4a1e6592d13329014f7edd21a05#rd">博客虫资源分享系列三：Spark相关资源  2016-02-02</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401292680&idx=1&sn=77f2a0e7251866cb1feeafe9c8de7e58#rd">米特吧大数据技术沙龙第二期详情及报名  2016-01-04</a>
@@ -58,6 +66,8 @@
 
 
 ###四、其他
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=402882134&idx=1&sn=c715c62e91dec765c41fbed64b168e70&scene=19#wechat_redirect">十八块一斤的知识，其实真的好便宜  2016-04-10</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=402565822&idx=1&sn=a69b91ef0d4495786ccd4ab2fd4d179d#rd">你好，大深圳  2016-03-29</a>
 
