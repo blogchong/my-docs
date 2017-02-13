@@ -1,8 +1,20 @@
-##博客虫大数据技术文章合集
+##数据虫巢大数据技术文章合集
 
-> 一直会持续更新，欢迎关注文章的公众号博客虫(微信号blogchong)，欢迎分享转发！
+> 一直会持续更新，欢迎关注文章的公众号数据虫巢(微信号blogchong)，欢迎分享转发！
 
 ###一、挖掘机系列
+
+* <a href="https://mp.weixin.qq.com/s/24aLxAcvViAaL1_rEbRRUA">要说起雾霾，那到底是不是北京的醇厚？  2016-12-21</a>
+
+* <a href="http://mp.weixin.qq.com/s/4tVirdq2t6mi_qqr8oWx0g">用数据挖一挖豆瓣5.3的《长城》，水军力量到底有多强大  2016-12-19</a>
+
+* <a href="http://mp.weixin.qq.com/s/hwJm6K_7yptukpNCjJFiww">数据化政务舆情的探索  2016-12-09</a>
+
+* <a href="http://mp.weixin.qq.com/s/930ssjYf5lpTRVBV5uDs6w">闲话互联网开放型数据价值挖掘  2016-11-29</a>
+
+* <a href="http://mp.weixin.qq.com/s/MM7kxamNYEd7pQYQj2PATw">闲话用户画像&数据价值挖掘  2016-11-17</a>
+
+* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473320&idx=1&sn=ca77bdb6a5b3298280f99fb650031901&scene=19#wechat_redirect">大数据职位画像-看看你是不是白混了贼多年！  2016-09-20</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=401083528&idx=1&sn=27974db9212db0c4f380760fffb509b2#rd">热度TopN排名算法的设计  2015-12-22</a>
 
@@ -17,11 +29,37 @@
 
 ###二、大数据系列
 
+* <a href="http://mp.weixin.qq.com/s/h53kKnKFE3mgqR9gJVBuuQ">作为大数据从业人员，如何写好一份可堪入目的简历？  2017-02-08</a>
+
+* <a href="http://mp.weixin.qq.com/s/NIW1TvB7-XnEgeQDtX6BOA">小破公司到底要不要搞大数据？  2017-02-07</a>
+
+* <a href="http://mp.weixin.qq.com/s/7iTWHvFPerWjdQF7uk0enQ">大数据跨界，从这里开始  2017-02-03</a>
+
+* <a href="http://mp.weixin.qq.com/s/AB4wc3wIkwLroSNnYjg8EA">写给想要跨界、初入大数据领域，以及想了解数据业务模式的朋友  2017-01-24</a>
+
+* <a href="http://mp.weixin.qq.com/s/_BnXedozspcKojiSEe2Fsw">2017年，这两个大数据岗位一定会火！  2017-01-11</a>
+
+* <a href="http://mp.weixin.qq.com/s/XYYn1iiKp5Mcw3eBSrVhbA">聊一聊支付宝的芝麻信用评分模型  2016-11-28</a>
+
+* <a href="http://mp.weixin.qq.com/s/ajFMGgt53AAH96M8dmdx3Q">闲话国内大数据发展简史&产业化落地  2016-11-12</a>
+
+* <a href="http://mp.weixin.qq.com/s/d5hHuoBW6U5qmIBvBUgMrg">川普赢了，但美国数据同行们却输了  2016-11-09</a>
+
+* <a href="http://mp.weixin.qq.com/s/l7SGjBTUSsUTfyHegjU_AA">从0到1构建数据生态系列之六：数据价值挖掘  2017-01-03</a>
+
+* <a href="http://mp.weixin.qq.com/s/l7SGjBTUSsUTfyHegjU_AA">从0到1构建数据生态系列之六：数据价值挖掘  2017-01-03</a>
+
+* <a href="http://mp.weixin.qq.com/s/mZ20LtiTkPhGncbagQ1-uA">从0到1构建数据生态系列之五：让你的数据生态更高效  2016-12-16</a>
+
+* <a href="http://mp.weixin.qq.com/s/j6v2c4-aM6fZU6CMhoFdXQ">从0到1构建数据生态系列之四：与研发的爱恨情仇  2017-01-03</a>
+
+* <a href="http://mp.weixin.qq.com/s/mZ20LtiTkPhGncbagQ1-uA">从0到1构建数据生态系列之三：拆解架构图  2016-11-07</a>
+
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473329&idx=1&sn=e95100a6e17b6401e84d02a172212b4f&scene=19#wechat_redirect">从0到1构建数据生态系列之二：拓荒  2016-10-27</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473325&idx=1&sn=8040951be49a8ecd0f4482dd989f58a6&scene=19#wechat_redirect">从0到1构建数据生态系列之一：蛮荒时代  2016-09-22</a>
 
-* <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=2650473320&idx=1&sn=ca77bdb6a5b3298280f99fb650031901&scene=19#wechat_redirect">大数据职位画像-看看你是不是白混了贼多年！  2016-09-20</a>
+* <a href="http://mp.weixin.qq.com/s/p8xsBhK2FYeVQnKug_Ae4g">大数据求职者说  2016-04-21</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=402814268&idx=1&sn=e8422c9e1ba0e9a121580210f3a9c0d4&scene=19#wechat_redirect">大数据与长尾  2016-04-07</a>
 
@@ -66,6 +104,10 @@
 
 
 ###四、其他
+
+* <a href="http://mp.weixin.qq.com/s/aQ_mWrGxKOvoHvozJaxJEA">再见，2016！  2016-12-31</a>
+
+* <a href="http://mp.weixin.qq.com/s/BVqToQnqSU2HXFC5337Bxw">我的2016年终总结  2016-12-27</a>
 
 * <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjM2MTY0OQ==&mid=402882134&idx=1&sn=c715c62e91dec765c41fbed64b168e70&scene=19#wechat_redirect">十八块一斤的知识，其实真的好便宜  2016-04-10</a>
 
